@@ -1,9 +1,7 @@
 package com.athar.accounts.service;
 
 
-
 import com.athar.accounts.dto.CustomerDto;
-
 
 public interface IAccountsService {
 
