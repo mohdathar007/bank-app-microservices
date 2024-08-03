@@ -77,7 +77,7 @@
                         <image>eclipse-temurin:21-jre</image> <!-- Replace with your chosen image -->
                     </from>
                     <to>
-                        <image>athar007/${project.artifactId}:s8</image>
+                        <image>athar007/${project.artifactId}:s9</image>
                     </to>
                 </configuration>
             </plugin>
